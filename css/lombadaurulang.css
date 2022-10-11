@@ -1,0 +1,32 @@
+body {
+	padding: 1000;
+	margin: 1000;
+	background: #95db98;
+	font-family: 'lato' , sans-serif;
+}
+
+.container {
+	background: white;
+	width: 990px;
+	margin: 0 auto;
+	box-shadow: 0 0 35px 1px rgba(0,0,0  0.2)
+}
+
+main {
+	margin: 20px 30px;
+}
+
+footer {
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	margin-top: 0px;
+	font-size: 15px;
+}
+
+footer a {
+	text-decoration: none;
+	color: #62c775;
+	font-weight:bold;
+}
